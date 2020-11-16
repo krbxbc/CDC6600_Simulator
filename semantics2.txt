@@ -1,0 +1,8 @@
+Fetch X
+Fetch A
+Form X^2
+Form AX^2
+Fetch B
+Form BX
+Form Y
+Store Y

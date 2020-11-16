@@ -1,0 +1,15 @@
+Fetch X
+Fetch A
+Fetch B
+Fetch C
+Set B1 to 1
+Set B2 to V.len
+Form X^2
+Form AX^2
+Form BX
+Fetch next X
+Decrement B2
+Form Ax^2 + BX
+Form Y
+Store Y
+Go to N4 if B2 != 0
